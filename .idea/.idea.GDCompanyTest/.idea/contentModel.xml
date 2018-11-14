@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\bewreks\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_GDCompanyTest.-1481895247.00" t="ExcludeRecursive" />
+    <e p="E:\Work\Unity\GDCompanyTest" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="GameSphere.cs" t="Include" />
+          <e p="IHittable.cs" t="Include" />
+          <e p="Main.cs" t="Include" />
+          <e p="MainTextes.cs" t="Include" />
+          <e p="ScoreText.cs" t="Include" />
+          <e p="SimplePool.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="BubbleShader.shader" t="Include" />
+        </e>
+      </e>
+      <e p="GDCompanyTest.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
